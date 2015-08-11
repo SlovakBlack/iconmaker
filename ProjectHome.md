@@ -1,0 +1,1 @@
+Icon Maker can be used to quickly and easily create 32-bit color icons from images that already contain alpha information. All sizes from 16x16 to 256x256 PNG icons are supported. Currently, Icon Maker only supports writing 32-bit icons; any format image may be imported, but icons will always be saved in 32-bit color with an alpha channel.
